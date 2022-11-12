@@ -17,7 +17,7 @@ public class NOD {
 
     }
 /*
-//  Алгоритм
+//  Алгоритм Эвклида
     public static int qcd(int a, int b){
         while (b!=0){
             int temp = a%b;
